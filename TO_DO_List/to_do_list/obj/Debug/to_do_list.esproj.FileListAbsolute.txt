@@ -1,0 +1,2 @@
+C:\Users\sanal\OneDrive\Documentos\Jorsenvey\PruebaTecnica\Fi-Group\TO_DO_List\TO_DO_List\obj\Debug\to_do_list.esproj.SuggestedBindingRedirects.cache
+C:\Users\sanal\OneDrive\Documentos\Jorsenvey\PruebaTecnica\Fi-Group\TO_DO_List\TO_DO_List\obj\Debug\to_do_list.esproj.CoreCompileInputs.cache
